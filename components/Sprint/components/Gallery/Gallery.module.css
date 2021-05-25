@@ -15,7 +15,6 @@
   background: rgb(41, 41, 41);
 }
 
-
 .galleryItemImageFigure {
   height:400px;
   min-width:600px;
@@ -40,6 +39,7 @@
   bottom:0;
   opacity:0;
   transition:.3s;
+  width:100%;
 }
 
 .galleryItemVideo {
