@@ -13,6 +13,11 @@
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sodales metus sit amet magna congue, lacinia finibus enim mattis. Maecenas placerat enim odio, ut pulvinar ex facilisis ac. Vestibulum eros nisl, egestas nec elementum nec, auctor ultrices magna. Aenean in dictum magna. Integer efficitur sem vel quam finibus, vitae maximus mi tempus.",
         "image":"https://images.unsplash.com/photo-1621528448003-02691b71cd4b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
       },
+         {
+        "type": "image",
+        "description": "É somente uma imageeeeeeeeem",
+        "image":"https://i.ibb.co/kDwhfJ6/dasdasdazxce.png"
+      },
       {
         "type":"video",
         "video": "https://player.vimeo.com/video/553541407"
