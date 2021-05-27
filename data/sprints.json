@@ -1,62 +1,75 @@
 [
   {
     "title":"Marketing",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sodales metus sit amet magna congue, lacinia finibus enim mattis. Maecenas placerat enim odio, ut pulvinar ex facilisis ac. Vestibulum eros nisl, egestas nec elementum nec, auctor ultrices magna. Aenean in dictum magna. Integer efficitur sem vel quam finibus, vitae maximus mi tempus. Praesent eu fermentum mauris. Donec sem nibh, varius vitae placerat quis, facilisis id enim. Fusce pellentesque condimentum lorem. Ut condimentum tortor sed neque iaculis ornare sit amet scelerisque tellus. Curabitur eleifend magna ut eleifend tincidunt. Sed posuere consequat lectus.",
+    "description": "O objetivo com essa Sprint era pesquisarmos e planejarmos a criação das personas que abordaríamos no nosso projeto com a TNT Energy Drink" ,  
     "gallery": [
       {
         "type": "image",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sodales metus sit amet magna congue, lacinia finibus enim mattis. Maecenas placerat enim odio, ut pulvinar ex facilisis ac. Vestibulum eros nisl, egestas nec elementum nec, auctor ultrices magna. Aenean in dictum magna. Integer efficitur sem vel quam finibus, vitae maximus mi tempus.",
-        "image":"https://images.unsplash.com/photo-1621570073925-da03366ea819?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1028&q=80"
+        "description": "A primeira etapa foi parte de pesquisa relacionada a TNT, dados e informações das redes sociais como palavras relacionadas, melhores publicações e postagens com maior engajamento. Foi feito também pesquisa de busca de palavras em redes sociais, buscas de palavras no google e outras coisas relevantes para elaboração da persona final.",
+        "image":"https://i.ibb.co/7WfYbLw/1.png"
       },
       {
         "type": "image",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sodales metus sit amet magna congue, lacinia finibus enim mattis. Maecenas placerat enim odio, ut pulvinar ex facilisis ac. Vestibulum eros nisl, egestas nec elementum nec, auctor ultrices magna. Aenean in dictum magna. Integer efficitur sem vel quam finibus, vitae maximus mi tempus.",
-        "image":"https://images.unsplash.com/photo-1621528448003-02691b71cd4b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+        "description": "A segunda etapa foi a pesquisa direcionada para cada persona que queríamos atingir. Então precisávamos entender como essas pessoas se comportavam nas redes sociais, as necessidades delas e como elas poderiam se tornarem possíveis consumidoras da marca",
+        "image":"https://i.ibb.co/kgqbw2R/2.png"
       },
-      {
-        "type":"video",
-        "video": "https://player.vimeo.com/video/553541407"
-      }
+       {
+        "type": "image",
+        "description": "A persona numero 01 é basicamente a persona que é atingida atualmente pela TNT e que comenta nas redes sociais deles.",
+        "image":"https://i.ibb.co/mTch251/3.png"
+      },
+       {
+        "type": "image",
+        "description": "A persona numero 02 é a persona nova, persona essa voltada ao meio de tecnologia, a qual a TNT gostaria de atingir e torna-los consumidores.",
+        "image":"https://i.ibb.co/WVtJV5L/4.png"
+      },
+       {
+        "type": "image",
+        "description": "A persona numero 03 é uma persona deficiente visual, que é atleta paraolímpico, que participa de esportes desde pequeno e que é um possivel consumidor, mas enfrenta dificuldades na experiência de compra.",
+        "image":"https://ibb.co/mzNqLNp"
+      },
     ]
   },
   {
     "title":"Storytelling",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sodales metus sit amet magna congue, lacinia finibus enim mattis. Maecenas placerat enim odio, ut pulvinar ex facilisis ac. Vestibulum eros nisl, egestas nec elementum nec, auctor ultrices magna. Aenean in dictum magna. Integer efficitur sem vel quam finibus, vitae maximus mi tempus. Praesent eu fermentum mauris. Donec sem nibh, varius vitae placerat quis, facilisis id enim. Fusce pellentesque condimentum lorem. Ut condimentum tortor sed neque iaculis ornare sit amet scelerisque tellus. Curabitur eleifend magna ut eleifend tincidunt. Sed posuere consequat lectus.",
+    "description": "A professora Winna pediu que fizéssemos uma estrutura de roteiro para auxiliar na criação do teaser que foi solicitado pela professora Priscila.",
     "gallery": [
       {
         "type": "image",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sodales metus sit amet magna congue, lacinia finibus enim mattis. Maecenas placerat enim odio, ut pulvinar ex facilisis ac. Vestibulum eros nisl, egestas nec elementum nec, auctor ultrices magna. Aenean in dictum magna. Integer efficitur sem vel quam finibus, vitae maximus mi tempus.",
-        "image":"https://images.unsplash.com/photo-1621570073925-da03366ea819?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1028&q=80"
+        "description": "Storyline usando a estrutura do Doc Comparato para criar uma propaganda que tenha como foco as pessoas com deficiência visual (Esse foi selecionado para ser feito o teaser).",
+        "image":"https://i.ibb.co/2nMByjD/1.png"
       },
       {
         "type": "image",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sodales metus sit amet magna congue, lacinia finibus enim mattis. Maecenas placerat enim odio, ut pulvinar ex facilisis ac. Vestibulum eros nisl, egestas nec elementum nec, auctor ultrices magna. Aenean in dictum magna. Integer efficitur sem vel quam finibus, vitae maximus mi tempus.",
-        "image":"https://images.unsplash.com/photo-1621570073925-da03366ea819?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1028&q=80"
+        "description": "Storyline usando a estrutura do Doc Comparato para criar uma propaganda que tenha como foco o publico de tecnologia.",
+        "image":"https://i.ibb.co/7WM46J7/2.png"
       },
       {
         "type": "image",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sodales metus sit amet magna congue, lacinia finibus enim mattis. Maecenas placerat enim odio, ut pulvinar ex facilisis ac. Vestibulum eros nisl, egestas nec elementum nec, auctor ultrices magna. Aenean in dictum magna. Integer efficitur sem vel quam finibus, vitae maximus mi tempus.",
-        "image":"https://images.unsplash.com/photo-1621528448003-02691b71cd4b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+        "description": "Storyline usando a estrutura do Doc Comparato para criar uma propaganda que tenha como foco a divulgação do Hackathon.",
+        "image":"https://i.ibb.co/KDWFFj6/3.png"
+      }
+    ]
+  },
+       {
+        "type": "image",
+        "description": "Storyline usando a estrutura do doc comparato para criar uma propaganda que tenha como foco a divulgação das latas interativas.",
+        "image":"https://i.ibb.co/L1Tv9tm/4.png"
       }
     ]
   },
  {
     "title":"Edição De Vídeo",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sodales metus sit amet magna congue, lacinia finibus enim mattis. Maecenas placerat enim odio, ut pulvinar ex facilisis ac. Vestibulum eros nisl, egestas nec elementum nec, auctor ultrices magna. Aenean in dictum magna. Integer efficitur sem vel quam finibus, vitae maximus mi tempus. Praesent eu fermentum mauris. Donec sem nibh, varius vitae placerat quis, facilisis id enim. Fusce pellentesque condimentum lorem. Ut condimentum tortor sed neque iaculis ornare sit amet scelerisque tellus. Curabitur eleifend magna ut eleifend tincidunt. Sed posuere consequat lectus.",
+    "description": "A professora Winna pediu que fizemos uma estrutura de roteiro para auxiliar na criação do teaser que foi solicitado pela professora Priscila.",
     "gallery": [
       {
         "type": "image",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sodales metus sit amet magna congue, lacinia finibus enim mattis. Maecenas placerat enim odio, ut pulvinar ex facilisis ac. Vestibulum eros nisl, egestas nec elementum nec, auctor ultrices magna. Aenean in dictum magna. Integer efficitur sem vel quam finibus, vitae maximus mi tempus.",
-        "image":"https://images.unsplash.com/photo-1621570073925-da03366ea819?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1028&q=80"
-      },
-      {
-        "type": "image",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sodales metus sit amet magna congue, lacinia finibus enim mattis. Maecenas placerat enim odio, ut pulvinar ex facilisis ac. Vestibulum eros nisl, egestas nec elementum nec, auctor ultrices magna. Aenean in dictum magna. Integer efficitur sem vel quam finibus, vitae maximus mi tempus.",
-        "image":"https://images.unsplash.com/photo-1621570073925-da03366ea819?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1028&q=80"
+        "description": "Escaleta e narração como planejamento para poder criar o teaser.",
+        "image":"https://i.ibb.co/HhP09HQ/1.png"
       },
       {
         "type":"video",
-        "video": "https://player.vimeo.com/video/553541407"
+        "video": "https://player.vimeo.com/video/555469680"
       }
     ]
   }
