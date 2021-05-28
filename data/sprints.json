@@ -70,5 +70,67 @@
             "video":"https://player.vimeo.com/video/555469680"
          }
       ]
+   },
+   {
+      "title":"Modelagem 3D",
+      "description":"Essa Sprint tinha como finalidade desenvolver renders em 3D promocinais a respeito das nossas ideias.",
+      "gallery":[
+         {
+            "type":"image",
+            "description":"A primeira etapa foi parte de pesquisa relacionada a TNT, dados e informações das redes sociais como palavras relacionadas, melhores publicações e postagens com maior engajamento. Foi feito também pesquisa de busca de palavras em redes sociais, buscas de palavras no google e outras coisas relevantes para elaboração da persona final.",
+            "image":"https://i.ibb.co/7WfYbLw/1.png"
+         },
+         {
+            "type":"image",
+            "description":"A segunda etapa foi a pesquisa direcionada para cada persona que queríamos atingir. Então precisávamos entender como essas pessoas se comportavam nas redes sociais, as necessidades delas e como elas poderiam se tornarem possíveis consumidoras da marca",
+            "image":"https://i.ibb.co/kgqbw2R/2.png"
+         },
+         {
+            "type":"image",
+            "description":"A persona numero 01 é basicamente a persona que é atingida atualmente pela TNT e que comenta nas redes sociais deles.",
+            "image":"https://i.ibb.co/mTch251/3.png"
+         },
+         {
+            "type":"image",
+            "description":"A persona numero 02 é a persona nova, persona essa voltada ao meio de tecnologia, a qual a TNT gostaria de atingir e torna-los consumidores.",
+            "image":"https://i.ibb.co/WVtJV5L/4.png"
+         },
+         {
+            "type":"image",
+            "description":"A persona numero 03 é uma persona deficiente visual, que é atleta paraolímpico, que participa de esportes desde pequeno e que é um possivel consumidor, mas enfrenta dificuldades na experiência de compra.",
+            "image":"https://i.ibb.co/gg4T54Y/5.png"
+         }
+      ]
+   },
+      {
+      "title":"Fundamentals of Creation and Concepts",
+      "description":"Nessa Sprint precivamos criar sketchs para desenvolver melhor os elementos visuais",
+      "gallery":[
+         {
+            "type":"image",
+            "description":"A primeira etapa foi parte de pesquisa relacionada a TNT, dados e informações das redes sociais como palavras relacionadas, melhores publicações e postagens com maior engajamento. Foi feito também pesquisa de busca de palavras em redes sociais, buscas de palavras no google e outras coisas relevantes para elaboração da persona final.",
+            "image":"https://i.ibb.co/7WfYbLw/1.png"
+         },
+         {
+            "type":"image",
+            "description":"A segunda etapa foi a pesquisa direcionada para cada persona que queríamos atingir. Então precisávamos entender como essas pessoas se comportavam nas redes sociais, as necessidades delas e como elas poderiam se tornarem possíveis consumidoras da marca",
+            "image":"https://i.ibb.co/kgqbw2R/2.png"
+         },
+         {
+            "type":"image",
+            "description":"A persona numero 01 é basicamente a persona que é atingida atualmente pela TNT e que comenta nas redes sociais deles.",
+            "image":"https://i.ibb.co/mTch251/3.png"
+         },
+         {
+            "type":"image",
+            "description":"A persona numero 02 é a persona nova, persona essa voltada ao meio de tecnologia, a qual a TNT gostaria de atingir e torna-los consumidores.",
+            "image":"https://i.ibb.co/WVtJV5L/4.png"
+         },
+         {
+            "type":"image",
+            "description":"A persona numero 03 é uma persona deficiente visual, que é atleta paraolímpico, que participa de esportes desde pequeno e que é um possivel consumidor, mas enfrenta dificuldades na experiência de compra.",
+            "image":"https://i.ibb.co/gg4T54Y/5.png"
+         }
+      ]
    }
 ]
