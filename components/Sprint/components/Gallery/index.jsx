@@ -2,13 +2,10 @@ import React, { useState } from "react";
 import styles from "./Gallery.module.css";
 
 const Gallery = ({gallery}) => {
-
-  const [scrollPosition, setScrollPosition] = useState(0);
-
   return (
     <div className={styles.gallery}>
       {
-        gallery.map( (galleryItem, index) => {
+        gallery?.length > 0 && gallery.map( (galleryItem, index) => {
           if(galleryItem.type==="image"){
             return(
               <div className={styles.galleryItemImage}>
